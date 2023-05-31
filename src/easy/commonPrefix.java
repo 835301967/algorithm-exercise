@@ -1,8 +1,7 @@
 package easy;
 
-import org.junit.platform.commons.util.StringUtils;
-
 import java.util.HashMap;
+import java.util.stream.Stream;
 
 /**
  *https://leetcode.cn/problems/longest-common-prefix/
