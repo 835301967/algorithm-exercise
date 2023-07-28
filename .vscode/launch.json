@@ -1,0 +1,133 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CodeGeeX",
+            "request": "launch",
+            "mainClass": "aicodepair.CodeGeeX",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "CodeWhi",
+            "request": "launch",
+            "mainClass": "aicodepair.CodeWhi",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "GithubCopilot",
+            "request": "launch",
+            "mainClass": "aicodepair.GithubCopilot",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "cursor",
+            "request": "launch",
+            "mainClass": "aicodepair.cursor",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "tabnine",
+            "request": "launch",
+            "mainClass": "aicodepair.tabnine",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "LoginMain",
+            "request": "launch",
+            "mainClass": "custom_anonation.LoginMain",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "FileFormatExtractor",
+            "request": "launch",
+            "mainClass": "file.FileFormatExtractor",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "FileStreamExample",
+            "request": "launch",
+            "mainClass": "file.FileStreamExample",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "FileUploader",
+            "request": "launch",
+            "mainClass": "file.FileUploader",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "ImageValidator",
+            "request": "launch",
+            "mainClass": "file.ImageValidator",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "ImageValidatorNew",
+            "request": "launch",
+            "mainClass": "file.ImageValidatorNew",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "LineReadWriteExample",
+            "request": "launch",
+            "mainClass": "file.LineReadWriteExample",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "ListBuckets",
+            "request": "launch",
+            "mainClass": "file.ListBuckets",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "ReflectionExample",
+            "request": "launch",
+            "mainClass": "file.ReflectionExample",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "TestError",
+            "request": "launch",
+            "mainClass": "file.TestError",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "URLRegexExample",
+            "request": "launch",
+            "mainClass": "file.URLRegexExample",
+            "projectName": "algorithm-exercise-my"
+        },
+        {
+            "type": "java",
+            "name": "RSADemo",
+            "request": "launch",
+            "mainClass": "security.RSADemo",
+            "projectName": "algorithm-exercise-my"
+        }
+    ]
+}
